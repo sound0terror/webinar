@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webinar/static/css/main.38be36b0.css",
+    "main.js": "/webinar/static/js/main.0b06a580.js",
+    "static/js/787.11a0f2b0.chunk.js": "/webinar/static/js/787.11a0f2b0.chunk.js",
+    "index.html": "/webinar/index.html",
+    "main.38be36b0.css.map": "/webinar/static/css/main.38be36b0.css.map",
+    "main.0b06a580.js.map": "/webinar/static/js/main.0b06a580.js.map",
+    "787.11a0f2b0.chunk.js.map": "/webinar/static/js/787.11a0f2b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.0b06a580.js"
+  ]
+}
